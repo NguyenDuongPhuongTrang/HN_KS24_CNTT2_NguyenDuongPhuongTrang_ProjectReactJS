@@ -1,0 +1,258 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "userName": "Phương Trang",
+      "email": "nggtrang26@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "2",
+      "userName": "Sơn Bùi",
+      "email": "son@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "3",
+      "userName": "Kiên Vũ",
+      "email": "kien@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "4",
+      "userName": "Trí Công",
+      "email": "cong@gmail.com",
+      "password": "123456789"
+    }
+  ],
+  "projects": [
+    {
+      "id": "54d030b4-7a2e-4e2b-bf27-dad3182a907c",
+      "name": "Xây dựng website bán hàng",
+      "description": "Dự án này nhằm phát triển một nền tảng thương mại điện tử hiện đại, thân thiện với người dùng, giúp khách hàng dễ dàng tìm kiếm và mua sắm các sản phẩm đa dạng.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318215/zpgztoczl3wxtrfqwzsb.jpg",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        },
+        {
+          "userId": "2",
+          "role": "Developer"
+        },
+        {
+          "userId": "3",
+          "role": "Developer"
+        }
+      ]
+    },
+    {
+      "id": "cd6df8c1-27b6-4b4d-a21e-a7fde3260af1",
+      "name": "Dự án React",
+      "description": "Dự án này tập trung vào việc xây dựng một ứng dụng web sử dụng React, nhằm cung cấp trải nghiệm người dùng mượt mà và tương tác cao.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318251/g9f6deinlipxwesupzss.png",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        }
+      ]
+    },
+    {
+      "id": "8acbbe96-bdee-4ac3-865a-4c0f368d6c70",
+      "name": "Phát triển ứng dụng di động",
+      "description": "Dự án này nhằm tạo ra một ứng dụng di động đa nền tảng, cung cấp các tính năng tiện ích và giao diện người dùng thân thiện.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318296/izzykfgdfnzfkfu8hzmz.jpg",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        }
+      ]
+    },
+    {
+      "id": "5f307712-2e2d-4736-9d65-23dad87437a5",
+      "name": "Quản lý dự án nội bộ",
+      "description": "Dự án này nhằm xây dựng một hệ thống quản lý dự án nội bộ, giúp theo dõi tiến độ, phân công nhiệm vụ và giao tiếp hiệu quả giữa các thành viên trong nhóm.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318305/pum4kxshnbiicacm3ski.jpg",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        }
+      ]
+    },
+    {
+      "id": "ec89e5bd-c74a-4c92-96bc-33840da5fa33",
+      "name": "Xây dựng hệ thống CRM",
+      "description": "Dự án này tập trung vào việc phát triển một hệ thống quản lý quan hệ khách hàng (CRM) nhằm tối ưu hóa quy trình bán hàng và dịch vụ khách hàng.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318314/ktn5elxpgobppvfma2sx.webp",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        }
+      ]
+    },
+    {
+      "id": "87d03d1d-47d6-4b6a-80a6-33f7b4d6fa12",
+      "name": "Phát triển hệ thống ERP",
+      "description": "Dự án này nhằm xây dựng một hệ thống hoạch định nguồn lực doanh nghiệp (ERP) tích hợp, giúp tối ưu hóa các quy trình kinh doanh và quản lý tài nguyên.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318329/snxnlwhiyz6xi1ivek2e.jpg",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        }
+      ]
+    },
+    {
+      "id": "feccf4d5-92de-454b-ac85-4232011f816a",
+      "name": "Dự án AI",
+      "description": "Dự án này tập trung vào việc phát triển các giải pháp trí tuệ nhân tạo (AI) nhằm cải thiện hiệu suất và tự động hóa các quy trình kinh doanh.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318337/if9wsehzvrcjxd2jtasi.jpg",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        }
+      ]
+    },
+    {
+      "id": "4fe146af-c94c-4373-a08d-d9b23cf612de",
+      "name": "Phần mềm quản lý học tập",
+      "description": "Dự án này nhằm xây dựng một nền tảng quản lý học tập trực tuyến, cung cấp các công cụ hỗ trợ giảng dạy và học tập hiệu quả.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318348/ynaw9ryulljcwjrj1zfd.png",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        }
+      ]
+    },
+    {
+      "id": "6eb695ca-2488-44b6-a4fd-b21ba47f16b3",
+      "name": "Phần mềm kế toán",
+      "description": "Dự án này tập trung vào việc phát triển một phần mềm kế toán toàn diện, giúp doanh nghiệp quản lý tài chính và báo cáo một cách chính xác và hiệu quả.",
+      "image": "https://res.cloudinary.com/dqegpz4du/image/upload/v1760318357/uu4k0nwlauys6jqzfnic.webp",
+      "members": [
+        {
+          "userId": 1,
+          "role": "Project owner"
+        }
+      ]
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "taskName": "Soạn thảo đề cương dự án",
+      "assigneeId": 1,
+      "projectId": 1,
+      "asignDate": "2025-03-24",
+      "dueDate": "2025-03-26",
+      "priority": "Thấp",
+      "progress": "Đúng tiến độ",
+      "status": "To do"
+    },
+    {
+      "id": "2",
+      "taskName": "Thiết kế giao diện",
+      "assigneeId": 2,
+      "projectId": 1,
+      "asignDate": "2025-03-25",
+      "dueDate": "2025-03-28",
+      "priority": "Trung bình",
+      "progress": "Có rủi ro",
+      "status": "To do"
+    },
+    {
+      "projectId": "86ba8c79-7a7c-421f-821b-968b78bdfb88",
+      "taskName": "dự án react",
+      "assigneeId": "1",
+      "asignDate": "2025-10-02",
+      "dueDate": "2025-10-22",
+      "priority": "Cao",
+      "progress": "Đúng tiến độ",
+      "status": "In Progress",
+      "id": "5744"
+    },
+    {
+      "projectId": "86ba8c79-7a7c-421f-821b-968b78bdfb88",
+      "taskName": "soạn thảo dự án",
+      "assigneeId": "2",
+      "asignDate": "2025-10-10",
+      "dueDate": "2025-10-15",
+      "priority": "Thấp",
+      "progress": "Có rủi ro",
+      "status": "Done",
+      "id": "2d56"
+    },
+    {
+      "projectId": "54d030b4-7a2e-4e2b-bf27-dad3182a907c",
+      "taskName": "Soạn thảo đề cương dự án",
+      "assigneeId": "3",
+      "asignDate": "2025-10-15",
+      "dueDate": "2025-10-30",
+      "priority": "Trung bình",
+      "progress": "Đúng tiến độ",
+      "status": "To do",
+      "id": "e81f"
+    },
+    {
+      "projectId": "54d030b4-7a2e-4e2b-bf27-dad3182a907c",
+      "taskName": "Lên lịch kickoff",
+      "assigneeId": "2",
+      "asignDate": "2025-10-17",
+      "dueDate": "2025-10-23",
+      "priority": "Thấp",
+      "progress": "Có rủi ro",
+      "status": "In Progress",
+      "id": "1965"
+    },
+    {
+      "id": "4ac5",
+      "projectId": "54d030b4-7a2e-4e2b-bf27-dad3182a907c",
+      "taskName": "Xây dựng giao diện",
+      "assigneeId": "1",
+      "asignDate": "2025-10-16",
+      "dueDate": "2025-10-20",
+      "priority": "Cao",
+      "progress": "Đúng tiến độ",
+      "status": "Pending"
+    },
+    {
+      "projectId": "54d030b4-7a2e-4e2b-bf27-dad3182a907c",
+      "taskName": "Soạn thảo đề cương ",
+      "assigneeId": "2",
+      "asignDate": "2025-10-16",
+      "dueDate": "2025-10-24",
+      "priority": "Thấp",
+      "progress": "Đúng tiến độ",
+      "status": "To do",
+      "id": "b0f8"
+    },
+    {
+      "id": "90e9",
+      "projectId": "cd6df8c1-27b6-4b4d-a21e-a7fde3260af1",
+      "taskName": "Soạn thảo",
+      "assigneeId": "1",
+      "asignDate": "2025-10-11",
+      "dueDate": "2025-10-16",
+      "priority": "Cao",
+      "progress": "Có rủi ro",
+      "status": "To do"
+    },
+    {
+      "projectId": "cd6df8c1-27b6-4b4d-a21e-a7fde3260af1",
+      "taskName": "Lên lịch kickoff",
+      "assigneeId": "1",
+      "asignDate": "2025-10-15",
+      "dueDate": "2025-10-23",
+      "priority": "Trung bình",
+      "progress": "Đúng tiến độ",
+      "status": "Done",
+      "id": "0ce2"
+    }
+  ]
+}
